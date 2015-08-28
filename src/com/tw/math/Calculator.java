@@ -13,4 +13,7 @@ public class Calculator {
     }
 
 
+    public double cancel() {
+        return 0.0;
+    }
 }
