@@ -8,7 +8,7 @@ public class Calculator {
     }
 
     public double add(double input) {
-        currentValue = input;
+        currentValue += input;
         return currentValue;
     }
 
