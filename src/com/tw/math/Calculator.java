@@ -12,7 +12,6 @@ public class Calculator {
         return currentValue;
     }
 
-
     public double cancel() {
         return 0.0;
     }
